@@ -1,3 +1,61 @@
-dimwishlist:item=-233402416&#notes:I don't care for it.
-dimwishlist:item=4146673634&perks=1017229899,3078487919
-dimwishlist:item=-4146673634
+// Mint Retrograde ()
+dimwishlist:item=42435996&perks=3418782618,2396489472
+dimwishlist:item=42435996&perks=2859149211,2396489472
+// No Survivors ()
+dimwishlist:item=189194532&perks=243981275,4293542123
+dimwishlist:item=189194532&perks=3017780555,4293542123
+// New Pacific Epitaph ()
+dimwishlist:item=233402416&perks=3108830275,2396489472
+// Cold Comfort ()
+dimwishlist:item=291447487&perks=3987942396,3078487919
+dimwishlist:item=291447487&perks=3987942396,1089671869
+// Pre Astyanax IV ()
+dimwishlist:item=471764396&perks=2652708987,2890807135
+// Wilderflight ()
+dimwishlist:item=559523765&perks=3987942396,3078487919
+// Edge Transit ()
+dimwishlist:item=568611923&perks=3751912585,3078487919
+dimwishlist:item=568611923&perks=968510818,3078487919
+// Giver's Blessing ()
+dimwishlist:item=970034755&perks=3418782618,3891536761
+// Wilderflight ()
+dimwishlist:item=1206729100&perks=3987942396,3078487919
+// A Sudden Death ()
+dimwishlist:item=1626437786&perks=791862061,2679249093,2360754333
+// VS Chill Inhibitor ()
+dimwishlist:item=1762785662&perks=3751912585,3078487919
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+// VS Velocity Baton ()
+dimwishlist:item=1762785663&perks=3108830275,2048641572
+dimwishlist:item=1762785663&perks=3108830275,243981275
+// Cold Comfort ()
+dimwishlist:item=1817605554&perks=3987942396,3078487919
+dimwishlist:item=1817605554&perks=3987942396,1089671869
+// Truthteller ()
+dimwishlist:item=1946491241&perks=3032599245,3300816228
+// A Sudden Death ()
+dimwishlist:item=1976481399&perks=791862061,2679249093,2360754333
+// New Pacific Epitaph ()
+dimwishlist:item=2059741649&perks=3108830275,2396489472
+// Lionfish-4fr ()
+dimwishlist:item=2423071981&perks=1523832109,2594592626
+dimwishlist:item=2423071981&perks=1523832109,2978966579
+// Chroma Rush ()
+dimwishlist:item=2598420927&perks=1820235745,3891536761
+// Mercury-A ()
+dimwishlist:item=2838279629&perks=2652708987,3891536761
+// Agape ()
+dimwishlist:item=4124362340&perks=3418782618,2890807135
+dimwishlist:item=4124362340&perks=3418782618,4293542123
+dimwishlist:item=4124362340&perks=3017780555,2890807135
+dimwishlist:item=4124362340&perks=3017780555,4293542123
+// Outrageous Fortune ()
+dimwishlist:item=4146673634&perks=3987942396,2890807135
+dimwishlist:item=4146673634&perks=3987942396,3078487919
+// Theodolite ()
+dimwishlist:item=4146673635&perks=1523832109,4104185692
+// No Survivors ()
+dimwishlist:item=4228149269&perks=3017780555,4293542123
+dimwishlist:item=4228149269&perks=243981275,4293542123
+
+
